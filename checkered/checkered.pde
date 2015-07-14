@@ -32,8 +32,3 @@ void setup(){
   }
 }
 
-
-void draw(){
-
-}
-
