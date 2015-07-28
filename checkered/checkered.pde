@@ -14,7 +14,6 @@ void setup(){
 
     float rectangle_width = fixed_square*x*pow(x,i);
     for (int j = 0; j < height; j = j+int(fixed_square)){
-      println(j);
       if(j%20 == 0){
         if(black == true){  
           fill(0);

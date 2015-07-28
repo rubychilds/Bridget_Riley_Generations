@@ -6,8 +6,6 @@ void setup(){
   column_width = 600.0/10.0;
   row_width = 600/11.0;
   background(255);
-
-
 }
 
 int[] getColours(){
